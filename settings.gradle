@@ -1,0 +1,7 @@
+/**
+ * @2021, Jogja
+ * bysrkh
+ * https://github.com/bysrkh
+ * Apache-2.0
+ */
+rootProject.name = "$artifactId"
